@@ -68,7 +68,7 @@ CREATE TABLE `system_settings` (
 --
 
 INSERT INTO `system_settings` (`id`, `name`, `email`, `contact`, `address`, `cover_img`) VALUES
-(1, 'Task Management System', 'taskforge@email.com', '+91 8652361395', 'New Opera Building ,Ghatkopar, Near Aadhar Hospital,400 086', '');
+(1, 'Task Management System', 'taskeaze@email.com', '+91 8652361395', 'New Opera Building ,Ghatkopar, Near Aadhar Hospital,400 086', '');
 
 -- --------------------------------------------------------
 
